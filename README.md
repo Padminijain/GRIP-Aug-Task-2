@@ -1,6 +1,6 @@
 # GRIP-Aug-Task-2- Prediction using Unsupervised ML- Iris Dataset
 ## Dataset: https://bit.ly/3kXTdox
-
+## Author- Padmini Jain
 ## Problem statement-
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
@@ -12,4 +12,5 @@ The dataset is having the numeric details of petal lenght, petal widht, sepal le
 4. The data was splitted into dependendt and independednt variables.
 5. Lastly the KMean model building was done to get the optimum number of clusters and presented it using scatter plot.
 
-## Conclusion- Number of cluster = 3 is the optimum.
+## Conclusion- 
+Number of cluster = 3 is the optimum.
